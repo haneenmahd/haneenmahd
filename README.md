@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://instagram.com/haneenmahdin"><img alt="Social banner for Haneen Mahdin" src="https://github.com/haneenmahd/haneenmahd/tree/master/assets/header.svg"/></a>
+<a href="https://instagram.com/haneenmahdin"><img alt="Social banner for Haneen Mahdin" src="https://github.com/haneenmahd/haneenmahd/blob/master/assets/header.svg"/></a>
 
 Here are some ideas to get you started:
 
