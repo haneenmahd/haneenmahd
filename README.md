@@ -6,7 +6,6 @@
 
 <a href="https://www.instagram.com/haneenmahdin"><img height="180rem" src="https://github-readme-stats.vercel.app/api?username=haneenmahd&show_icons=true&theme=react" alt="Welly's github stats" /> <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneenmahd&layout=compact&theme=react" alt="Welly's top languages" /> </a>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **OpenSnap** Mobile App...
 - 🌱 I’m currently learning **React Native**...
