@@ -2,9 +2,9 @@
 ### I am Haneen Mahdin
 #### I am Fullstack Developer
 
-<a href="https://www.instagram.com/haneenmahdin"><img height="180rem" src="https://github-readme-stats.vercel.app/api?username=haneenmahd&show_icons=true&theme=react" alt="Welly's github stats" /> <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneenmahd&layout=compact&theme=react" alt="Welly's top languages" /> </a>
-
 <a href="https://instagram.com/haneenmahdin"><img alt="Social banner for Haneen Mahdin" src="https://github.com/haneenmahd/haneenmahd/blob/master/assets/header.svg"/></a>
+
+<a href="https://www.instagram.com/haneenmahdin"><img height="180rem" src="https://github-readme-stats.vercel.app/api?username=haneenmahd&show_icons=true&theme=react" alt="Welly's github stats" /> <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneenmahd&layout=compact&theme=react" alt="Welly's top languages" /> </a>
 
 Here are some ideas to get you started:
 
