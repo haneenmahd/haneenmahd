@@ -1,6 +1,6 @@
 # Hi there 👋
 <a href="https://instagram.com/haneenmahdin"><img alt="Social banner for Haneen Mahdin" src="https://github.com/haneenmahd/haneenmahd/blob/master/assets/header.svg"/></a>
-## I am Fullstack Developer
+## I am a Fullstack Developer
 <a href="https://www.instagram.com/haneenmahdin"><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneenmahd&layout=compact&theme=vue" alt="Haneen's top languages" /> </a>
 
 For all of my public repositories, feedbacks and PR's are welcomed!.
