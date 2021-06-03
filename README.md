@@ -2,6 +2,6 @@
 I am Haneen Mahdin, a Software Developer who is just learning some few piece of tech.
 You  may have seen my Open Source Work. Hope that you like it
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haneenmahd&layout=compact&theme=vue)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haneenmahd&layout=compact&theme=svelte)
 
 For all of my public repositories, feedbacks and PR's are welcomed!.
