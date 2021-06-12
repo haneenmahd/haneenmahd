@@ -7,6 +7,6 @@ You  may have seen my Open Source Work. Hope that you like it
 ### Here are some of my works
 [![Swudo Card](https://github-readme-stats.vercel.app/api/pin/?username=swudots&repo=swudo)](https://github.com/swudots/swudo)
 [![Blobby Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=blobby)](https://github.com/haneenmahd/blobby)
-[![Pendown Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=markdown-previewer)](https://github.com/haneenmahd/markdown-previewer)
+[![Pendown Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=pen-down)](https://github.com/haneenmahd/pen-down)
 
 For all of my public repositories, feedbacks and PR's are welcomed!.
