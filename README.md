@@ -2,6 +2,11 @@
 I am Haneen Mahdin, a Software Developer who is just learning some few piece of tech.
 You  may have seen my Open Source Work. Hope that you like it
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haneenmahd&layout=compact&theme=vanilla)
+[![Haneen's GitHub stats](https://github-readme-stats.vercel.app/api?username=haneenmahd)](https://github.com/anuraghazra/github-readme-stats)
+
+## Here are some of my works
+[![Swudo Card](https://github-readme-stats.vercel.app/api/pin/?username=swudots&repo=swudo)](https://github.com/swudots/swudo)
+[![Blobby Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=blobby)](https://github.com/haneenmahd/blobby)
+[![Pendown Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=markdown-previewer)](https://github.com/haneenmahd/markdown-previewer)
 
 For all of my public repositories, feedbacks and PR's are welcomed!.
