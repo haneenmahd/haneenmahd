@@ -5,16 +5,10 @@ I am Haneen Mahdin, I am a Software Developer who builds some few pieces of tech
 ![Most used Languages](https://github-readme-stats.vercel.app/api/?username=haneenmahd&layout=compact&theme=react)
 
 Here are some of my works:
-- [`BitBuild`](https://github.com/Bit-Build/bitbuild) A Program to automate your workflow Tasks.
-- [`SwudoTS`](https://github.com/swudots/swudo) A Runtime and Parser with Utilities for Typescript.
-- [`PenDown`](https://github.com/haneenmahd/pen-down) An Editor and Previewer for Makrdown files.
 - [`Blobby`](https://github.com/haneenmahd/blobby) A Simple Image to PDF Converter.
 - [`OSName`](https://github.com/haneenmahd/OSName) A Package to get the type and name of OS written in Swift.
 
-[![BitBuild Card](https://github-readme-stats.vercel.app/api/pin/?username=Bit-Build&repo=bitbuild)](https://github.com/Bit-Build/bitbuild)
-[![Swudo Card](https://github-readme-stats.vercel.app/api/pin/?username=swudots&repo=swudo)](https://github.com/swudots/swudo)
 [![OSName Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=OSName)](https://github.com/haneenmahd/OSName)
-[![Pendown Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=pen-down)](https://github.com/haneenmahd/pen-down)
 [![Blobby Card](https://github-readme-stats.vercel.app/api/pin/?username=haneenmahd&repo=blobby)](https://github.com/haneenmahd/blobby)
 
 For all of my public repositories, feedbacks and PR's are welcomed! ✋
