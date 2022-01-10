@@ -6,6 +6,8 @@ I am Haneen Mahdin, hooked in Software Developing 😍. <br>
 
 ~ *Good Things Take Time*: From [Bradley ✍️](https://twitter.com/VerdeSelvans)
 
+<hr />
+
 I have been working on these projects lately, so feel free to check them out😃!
 - [Hashable](https://github.com/haneenmahd/hashable): A Client-Side Gateway for users to interact play and test with cryptography.
 - [EmojiPlate](https://github.com/emoji-plate/client): Emoji plate is simple micro-service to help people get emojis that they cannot get from their keyboards.
