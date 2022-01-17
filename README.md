@@ -1,5 +1,6 @@
-### Hey, there 👋
-I am Haneen Mahdin, hooked in Software Developing 😍. <br>
+<img src="https://pbs.twimg.com/profile_banners/1340335878548275200/1640877719/1500x500" alt="Header Image" />
+
+I am **Haneen Mahdin**, hooked in Software Developing 😍. <br>
 - Well, I spent most of my time reading articles and writing code. <br>
 - I love react, but it is kinda obvious btw 😂 <br>
 - Looking forward into Mobile Development.
