@@ -1,6 +1,6 @@
 I am **Haneen Mahdin**, hooked in Software Developing 😍. <br>
 - Well, I spent most of my time reading articles and writing code. <br>
-- I love react, but it is kinda obvious btw 😂 <br>
+- I love spending my time improving my own products <br>
 - Looking forward into Mobile Development.
 
 ~ *Good Things Take Time*: From [Bradley ✍️](https://twitter.com/VerdeSelvans)
