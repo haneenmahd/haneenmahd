@@ -8,9 +8,10 @@ I am **Haneen Mahdin**, hooked in Software Developing 😍. <br>
 <hr />
 
 I have been working on these projects lately, so feel free to check them out😃!
-- [Hashable](https://github.com/haneenmahd/hashable): A Client-Side Gateway for users to interact play and test with cryptography.
-- [EmojiPlate](https://github.com/emoji-plate/client): Emoji plate is simple micro-service to help people get emojis that they cannot get from their keyboards.
-- [Imagable](https://github.com/imagable/imagable): An Image Editor, *Create, Edit and do more with your images*
+- [Linked ✨](https://github.com/haneenmahd/linked) A beautiful and elegant template for building your link tree
+- [Hashable 🔑](https://github.com/haneenmahd/hashable): A Client-Side Gateway for users to interact play and test with cryptography.
+- [EmojiPlate 😃](https://github.com/emoji-plate/client): Emoji plate is simple micro-service to help people get emojis that they cannot get from their keyboards.
+- [Imagable 🎆](https://github.com/imagable/imagable): An Image Editor, *Create, Edit and do more with your images*
 
 I write my ✍️  code in:
 - C/C++
