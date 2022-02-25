@@ -11,7 +11,7 @@ Hi 👋 , I am **Haneen Mahdin**, a full-stack software developer 👨‍💻. <
  - Problem solver 🔨
  - Too much obsessed with low-level programming 💀
 
-~ *Good Things Take Time*: From [Bradley ✍️](https://twitter.com/VerdeSelvans)
+~ *Creation is beautiful, Maintaining it is hard, destruction is painful*: Haneen Mahdin
 
 <hr />
 
