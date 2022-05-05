@@ -21,8 +21,4 @@ I have been working on these projects lately, so feel free to check them out😃
 - [EmojiPlate 😃](https://github.com/emoji-plate/client): Emoji plate is simple micro-service to help people get emojis that they cannot get from their keyboards.
 - [Imagable 🎆](https://imagable.vercel.app): Resize and generate your logos for different platforms with one click.
 
-For all of my public repositories, feedbacks and PR's are welcomed! ✋
-
-For bussiness queries, DM me on Twitter [@HaneenMahdin](https://twitter.com/HaneenMahdin)✉️.
-
-### I am open to job offers, send me a [Mail ✉️](mailto:haneenmahdin@gmail.com).
+> I am open to job and business offers, send me a [Mail ✉️](mailto:haneenmahdin@gmail.com).
