@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/72091386/161083737-84ca241a-fbcb-4f51-99c2-b202b5924394.png)
+![Banner](https://user-images.githubusercontent.com/72091386/166913543-af366cad-17e9-4d9b-9944-3ca7a2890b5a.png)
 
 Hi 👋 , I am **Haneen Mahdin**, a full-stack software developer 👨‍💻. <br>
 
