@@ -4,7 +4,7 @@ Fullstack Developer & Designer
 ------------------------------  
 I've been learning to code for the past 3 years, and I have had great moments in my life. Learning HTML, lead me to learning UI/UX and Visual Design. I have learnt and is learning to create awesome useful products.  
 * 🌍  I'm based in India 
-* 🖥️  See my portfolio at [Portfolio](http://https://haneenmahd.github.io) 
+* 🖥️  See my portfolio at [Portfolio](https://haneenmahd.github.io) 
 * ✉️  You can contact me at [haneenmahdin@gmail.com](mailto:haneenmahdin@gmail.com) 
 * 🚀  I'm currently working on [Dapper](http://github.com/TruelinesHQ/dapper) 
 * 🧠  I'm learning SwiftUI 
