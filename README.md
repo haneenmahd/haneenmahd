@@ -19,7 +19,7 @@
    <li>🥤 i consume `.js`, `.ts`, `.html`, `.css`, `.svg`, `.fig` </li>
    <li>🌍 i love open source & try to make a little piece of software better</li>
    <li>👾 built <a href="https://github.com/truelines">@truelines</a>, <a href="https://github.com/haneenmahd/tic-tac-go">TicTacGo</a>, <a href="https://github.com/haneenmahd/JSONViewer">JSONViewer</a></li>
-   <li>📫 <a href="mailto:haneenmahdin@gmail.com">ping me</a>, if you want to collaborate with me for a project</li>
+   <li>📫 <a href="mailto:haneenmahdin@gmail.com">ping me</a> if you want to collaborate with me for a project</li>
   </ul>
  </div>
 </div>
