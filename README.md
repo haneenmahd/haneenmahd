@@ -7,7 +7,7 @@
   <ul>
    <li>🥶 redesigning my portfolio</li>
    <li>🫣 working on a little creative project</li>
-   <li>✍🏼 reading books </li>
+   <li>📖 reading books </li>
   </ul>
  </div>
  
