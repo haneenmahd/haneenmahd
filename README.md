@@ -1,6 +1,6 @@
 <div align="left">
  <h3>Haneen Mahdin</h3>
- <h4>a fonunder & design engineer</h4>
+ <h4>a founder & design engineer</h4>
  
  <div>
   <h5>🙀 now.</h5>
