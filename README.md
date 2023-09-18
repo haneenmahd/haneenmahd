@@ -5,7 +5,6 @@
  <div>
   <h5>🙀 now.</h5>
   <ul>
-   <li>🥶 working on my startup <b>Advenzer</b></li>
    <li>🧫 experimenting with the new tech by <b>vercel</b></li>
    <li>📖 crafting magic by integrating & development by working on freelance projects for small-mid sized businesses</li>
   </ul>
